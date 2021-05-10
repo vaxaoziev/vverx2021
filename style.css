@@ -1,0 +1,26 @@
+.header{
+    background-color:orange;
+    color:white;
+    text-align: center;
+}
+.header-1{
+    text-align: center;    
+}
+.header-1 img{
+    margin:5px;
+}
+.navbar{
+    background-color: rgb(8, 158, 58);
+}
+.nav-link{
+    color: white !important;
+    font-size: 28px;
+    font-weight: 700;
+    transition: 0.3s;
+}
+
+.nav-link:hover{
+    color:crimson;
+    background-color:crimson;
+    border-radius:5px;
+}
